@@ -7,10 +7,10 @@ description: Test
 
 ```yaml
 type: NormalExercise
+key: 7124a394b6
 lang: python
 xp: 100
 skills: 2
-key: aee1801560
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
